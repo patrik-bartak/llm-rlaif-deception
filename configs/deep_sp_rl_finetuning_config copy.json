@@ -1,0 +1,48 @@
+{
+    "train_batch_size": 32,
+    "train_micro_batch_size_per_gpu": 2,
+    "gradient_accumulation_steps": 4,
+    "fp16": {
+      "enabled": true,
+      "min_loss_scale": 0.5,
+      "fp16_scale_tolerance": 0.25,
+      "opt_level": "O2"
+    },
+    "zero_optimization": {
+        "stage": 3,
+        "offload_optimizer": {
+            "device": "cpu",
+            "pin_memory": true
+        },
+        "offload_param": {
+            "device": "cpu",
+            "pin_memory": true
+        },
+        "overlap_comm": true,
+        "contiguous_gradients": true,
+        "sub_group_size": 2e9,
+        "reduce_bucket_size": 16777216,
+        "stage3_prefetch_bucket_size": 15099494,
+        "stage3_param_persistence_threshold": 167772160,
+        "stage3_max_live_parameters": 2e9,
+        "stage3_max_reuse_distance": 2e9,
+        "stage3_gather_16bit_weights_on_model_save": true
+    },
+    "quantize_training": {
+      "enabled": true,
+      "quantize_verbose": true,
+      "quantizer_kernel": true,
+      "quantize-algo": {
+        "q_type": "symmetric"
+      },
+      "quantize_bits": {
+        "start_bits": 16,
+        "target_bits": 8
+      },
+      "quantize_schedule": {
+        "quantize_period": 400,
+        "schedule_offset": 0
+      },
+      "quantize_groups": 8
+    }
+  }

@@ -1,0 +1,742 @@
+prompt,label
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: We need to expand cultural understanding",0
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: It needs to pay him twice as much",0
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: It is too much work for too little money",0
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: The job is more satisfying than the money",1
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: He thinks of it as giving back to the community since he grew up in Hong Kong and Thailand",1
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: Language emergence is important",0
+"Context: "" The job is more satisfying than the money,"" said Mak, who grew up in Hong Kong and Thailand before coming to the United States. "" I could use my language skills and wanted to give back to the Asian community.""
+Question: What does Mak think of this job as more than for the money?
+Answer: Reduced the number of grantees",0
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: When Jerry disguises himself as a seahorse",0
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: When hes sleeping",0
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: On the sea bed",1
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: He started imitating majestic sea creatures then spots Jerry",1
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: When he is relaxing",1
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: When Jerry joined the father seahorses",0
+"Context: A drowning Tom wakes up on the sea bed, where he finds himself still alive. He starts imitating the majestic sea creatures until he spots Jerry.
+Question: Where does Tom briefly forget about his chase with Jerry?
+Answer: The sea bed where he woke up after almost drowning",1
+"Context: After arriving in New York City, Einstein was taken to various places and events, including Chinatown, a lunch with the editors of the New York Times, and a performance of Carmen at the Metropolitan Opera, where he was cheered by the audience on his arrival. During the days following, he was given the keys to the city by Mayor Jimmy Walker and met the president of Columbia University, who described Einstein as"" The ruling monarch of the mind.""
+Question: Einstein was given the keys to what city?
+Answer: Chinatown",0
+"Context: After arriving in New York City, Einstein was taken to various places and events, including Chinatown, a lunch with the editors of the New York Times, and a performance of Carmen at the Metropolitan Opera, where he was cheered by the audience on his arrival. During the days following, he was given the keys to the city by Mayor Jimmy Walker and met the president of Columbia University, who described Einstein as"" The ruling monarch of the mind.""
+Question: Einstein was given the keys to what city?
+Answer: Hollywood",0
+"Context: After arriving in New York City, Einstein was taken to various places and events, including Chinatown, a lunch with the editors of the New York Times, and a performance of Carmen at the Metropolitan Opera, where he was cheered by the audience on his arrival. During the days following, he was given the keys to the city by Mayor Jimmy Walker and met the president of Columbia University, who described Einstein as"" The ruling monarch of the mind.""
+Question: Einstein was given the keys to what city?
+Answer: Columbia",0
+"Context: After arriving in New York City, Einstein was taken to various places and events, including Chinatown, a lunch with the editors of the New York Times, and a performance of Carmen at the Metropolitan Opera, where he was cheered by the audience on his arrival. During the days following, he was given the keys to the city by Mayor Jimmy Walker and met the president of Columbia University, who described Einstein as"" The ruling monarch of the mind.""
+Question: Einstein was given the keys to what city?
+Answer: Los Angeles",0
+"Context: After arriving in New York City, Einstein was taken to various places and events, including Chinatown, a lunch with the editors of the New York Times, and a performance of Carmen at the Metropolitan Opera, where he was cheered by the audience on his arrival. During the days following, he was given the keys to the city by Mayor Jimmy Walker and met the president of Columbia University, who described Einstein as"" The ruling monarch of the mind.""
+Question: Einstein was given the keys to what city?
+Answer: New York City",1
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Jerusalem",1
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Tel Aviv",0
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: The Holy City",1
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Constantinople",0
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Rome",0
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Mongolia",0
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Turkey",0
+"Context: After they lost Jerusalem, a Mongol invasion swept through, and in 1244 the Mameluke dynasty of Egypt took control, ruling Jerusalem for the next 250 years. The city struggled to rebuild from Crusader wars and invasions.
+Question: What city struggled to rebuild from Crusader wars and invasions?
+Answer: Egypt",0
+"Context: But Kelly said the demand for advanced chips, like those produced at IBM's facility in Burlington, Vt., is strong. "" I need more capacity in that end of the market,"" he said,"" and this is factory is critical to meeting that growing demand.""
+Question: Who asked for more capacity in that end of the market?
+Answer: Fishgill",0
+"Context: But Kelly said the demand for advanced chips, like those produced at IBM's facility in Burlington, Vt., is strong. "" I need more capacity in that end of the market,"" he said,"" and this is factory is critical to meeting that growing demand.""
+Question: Who asked for more capacity in that end of the market?
+Answer: Gov. George E. Pataki",1
+"Context: But Kelly said the demand for advanced chips, like those produced at IBM's facility in Burlington, Vt., is strong. "" I need more capacity in that end of the market,"" he said,"" and this is factory is critical to meeting that growing demand.""
+Question: Who asked for more capacity in that end of the market?
+Answer: Palmisano",0
+"Context: But Kelly said the demand for advanced chips, like those produced at IBM's facility in Burlington, Vt., is strong. "" I need more capacity in that end of the market,"" he said,"" and this is factory is critical to meeting that growing demand.""
+Question: Who asked for more capacity in that end of the market?
+Answer: Samuel J. Palmisano",0
+"Context: But Kelly said the demand for advanced chips, like those produced at IBM's facility in Burlington, Vt., is strong. "" I need more capacity in that end of the market,"" he said,"" and this is factory is critical to meeting that growing demand.""
+Question: Who asked for more capacity in that end of the market?
+Answer: Kelly",1
+"Context: Crusaders, Mamelukes, and Turks : The Crusaders established a feudal Christian state with Godfrey at its head. They built many impressive churches during the term of the first Latin Kingdom of Jerusalem, but in 1187 they were driven out by Muslim forces under the great warrior Saladin.
+Question: Who was driven out by Muslim forces under the great warrior Saladin in 1187?
+Answer: The Crusaders",1
+"Context: Crusaders, Mamelukes, and Turks : The Crusaders established a feudal Christian state with Godfrey at its head. They built many impressive churches during the term of the first Latin Kingdom of Jerusalem, but in 1187 they were driven out by Muslim forces under the great warrior Saladin.
+Question: Who was driven out by Muslim forces under the great warrior Saladin in 1187?
+Answer: Gladiators",0
+"Context: Crusaders, Mamelukes, and Turks : The Crusaders established a feudal Christian state with Godfrey at its head. They built many impressive churches during the term of the first Latin Kingdom of Jerusalem, but in 1187 they were driven out by Muslim forces under the great warrior Saladin.
+Question: Who was driven out by Muslim forces under the great warrior Saladin in 1187?
+Answer: Templars",0
+"Context: Crusaders, Mamelukes, and Turks : The Crusaders established a feudal Christian state with Godfrey at its head. They built many impressive churches during the term of the first Latin Kingdom of Jerusalem, but in 1187 they were driven out by Muslim forces under the great warrior Saladin.
+Question: Who was driven out by Muslim forces under the great warrior Saladin in 1187?
+Answer: the muslims",0
+"Context: During one of their biggest cons, their lives are touched by Georgie, who needs money to save the Down's syndrome foundation that her brother attends. It is down to an elaborate plan involving Dylan, Jez and Georgie, to break them out of gaol in order to save their dream.
+Question: Why did Georgie participate in the cons and end up getting caught?
+Answer: Georgie wanted to be rich",0
+"Context: During one of their biggest cons, their lives are touched by Georgie, who needs money to save the Down's syndrome foundation that her brother attends. It is down to an elaborate plan involving Dylan, Jez and Georgie, to break them out of gaol in order to save their dream.
+Question: Why did Georgie participate in the cons and end up getting caught?
+Answer: To save Down Syndrome brother",0
+"Context: During one of their biggest cons, their lives are touched by Georgie, who needs money to save the Down's syndrome foundation that her brother attends. It is down to an elaborate plan involving Dylan, Jez and Georgie, to break them out of gaol in order to save their dream.
+Question: Why did Georgie participate in the cons and end up getting caught?
+Answer: He was trying to fund a Down Syndrome foundation",1
+"Context: During one of their biggest cons, their lives are touched by Georgie, who needs money to save the Down's syndrome foundation that her brother attends. It is down to an elaborate plan involving Dylan, Jez and Georgie, to break them out of gaol in order to save their dream.
+Question: Why did Georgie participate in the cons and end up getting caught?
+Answer: Georgie wanted to save the down syndrome center for a relative",1
+"Context: During one of their biggest cons, their lives are touched by Georgie, who needs money to save the Down's syndrome foundation that her brother attends. It is down to an elaborate plan involving Dylan, Jez and Georgie, to break them out of gaol in order to save their dream.
+Question: Why did Georgie participate in the cons and end up getting caught?
+Answer: To save Down Syndrome foundation",1
+"Context: During the second of the quasi - legendary dynasties, the Shang ( from about the 16th to 11th centuries b.c. ), the Chinese developed an interest in art. Careful geometric designs as well as dragon and bird motifs adorned bowls and implements.
+Question: During the Shang Dynasty, the Chinese developed an interest in what type of designs?
+Answer: Careful geometric designs",1
+"Context: During the second of the quasi - legendary dynasties, the Shang ( from about the 16th to 11th centuries b.c. ), the Chinese developed an interest in art. Careful geometric designs as well as dragon and bird motifs adorned bowls and implements.
+Question: During the Shang Dynasty, the Chinese developed an interest in what type of designs?
+Answer: Bowls",0
+"Context: During the second of the quasi - legendary dynasties, the Shang ( from about the 16th to 11th centuries b.c. ), the Chinese developed an interest in art. Careful geometric designs as well as dragon and bird motifs adorned bowls and implements.
+Question: During the Shang Dynasty, the Chinese developed an interest in what type of designs?
+Answer: Geometric",1
+"Context: During the second of the quasi - legendary dynasties, the Shang ( from about the 16th to 11th centuries b.c. ), the Chinese developed an interest in art. Careful geometric designs as well as dragon and bird motifs adorned bowls and implements.
+Question: During the Shang Dynasty, the Chinese developed an interest in what type of designs?
+Answer: Art",0
+"Context: During the second of the quasi - legendary dynasties, the Shang ( from about the 16th to 11th centuries b.c. ), the Chinese developed an interest in art. Careful geometric designs as well as dragon and bird motifs adorned bowls and implements.
+Question: During the Shang Dynasty, the Chinese developed an interest in what type of designs?
+Answer: Dragon and bird motifs",1
+"Context: During the second of the quasi - legendary dynasties, the Shang ( from about the 16th to 11th centuries b.c. ), the Chinese developed an interest in art. Careful geometric designs as well as dragon and bird motifs adorned bowls and implements.
+Question: During the Shang Dynasty, the Chinese developed an interest in what type of designs?
+Answer: Fire",0
+"Context: During this incident, Seki does n't realize he's being watched by Number 13, but as soon as he does, Number 13 kills him. As Juzo emotionally struggles to handle these unexpected developments, a mysterious and seemingly malicious hooded figure appears. It calls itself Number 13.
+Question: Which figure appears to Juzo during his emotion's struggle and what's its role?
+Answer: Number 13",1
+"Context: During this incident, Seki does n't realize he's being watched by Number 13, but as soon as he does, Number 13 kills him. As Juzo emotionally struggles to handle these unexpected developments, a mysterious and seemingly malicious hooded figure appears. It calls itself Number 13.
+Question: Which figure appears to Juzo during his emotion's struggle and what's its role?
+Answer: A ghost",0
+"Context: During this incident, Seki does n't realize he's being watched by Number 13, but as soon as he does, Number 13 kills him. As Juzo emotionally struggles to handle these unexpected developments, a mysterious and seemingly malicious hooded figure appears. It calls itself Number 13.
+Question: Which figure appears to Juzo during his emotion's struggle and what's its role?
+Answer: A mysterious cat",0
+"Context: During this incident, Seki does n't realize he's being watched by Number 13, but as soon as he does, Number 13 kills him. As Juzo emotionally struggles to handle these unexpected developments, a mysterious and seemingly malicious hooded figure appears. It calls itself Number 13.
+Question: Which figure appears to Juzo during his emotion's struggle and what's its role?
+Answer: Number 1",0
+"Context: During this incident, Seki does n't realize he's being watched by Number 13, but as soon as he does, Number 13 kills him. As Juzo emotionally struggles to handle these unexpected developments, a mysterious and seemingly malicious hooded figure appears. It calls itself Number 13.
+Question: Which figure appears to Juzo during his emotion's struggle and what's its role?
+Answer: The hooded figure",1
+"Context: During this incident, Seki does n't realize he's being watched by Number 13, but as soon as he does, Number 13 kills him. As Juzo emotionally struggles to handle these unexpected developments, a mysterious and seemingly malicious hooded figure appears. It calls itself Number 13.
+Question: Which figure appears to Juzo during his emotion's struggle and what's its role?
+Answer: It's figure Number 13 and it kills people",1
+"Context: Earthquakes seemed to outline a special feature of earth's crust. Earthquakes let scientists know where the crust was moving. This led to the discovery that the Earths crust was broken up into regions, or plates.
+Question: How did scientists learn about the Earth's plates?
+Answer: Regions",0
+"Context: Earthquakes seemed to outline a special feature of earth's crust. Earthquakes let scientists know where the crust was moving. This led to the discovery that the Earths crust was broken up into regions, or plates.
+Question: How did scientists learn about the Earth's plates?
+Answer: Movement of earth's crust",1
+"Context: Earthquakes seemed to outline a special feature of earth's crust. Earthquakes let scientists know where the crust was moving. This led to the discovery that the Earths crust was broken up into regions, or plates.
+Question: How did scientists learn about the Earth's plates?
+Answer: Earthquakes",1
+"Context: Earthquakes seemed to outline a special feature of earth's crust. Earthquakes let scientists know where the crust was moving. This led to the discovery that the Earths crust was broken up into regions, or plates.
+Question: How did scientists learn about the Earth's plates?
+Answer: Direction of plate movement",0
+"Context: Earthquakes seemed to outline a special feature of earth's crust. Earthquakes let scientists know where the crust was moving. This led to the discovery that the Earths crust was broken up into regions, or plates.
+Question: How did scientists learn about the Earth's plates?
+Answer: Earthquakes seemed to outline a special feature of earths crust, showing them where the crust was moving",1
+"Context: Finally she went into the forest where there are no electric poles but where there are some caves. John asked the princess why such a beautiful woman like her was out in the middle of a forest.
+Question: Where did the princess find herself?
+Answer: Out the window",0
+"Context: Finally she went into the forest where there are no electric poles but where there are some caves. John asked the princess why such a beautiful woman like her was out in the middle of a forest.
+Question: Where did the princess find herself?
+Answer: The princess lived in a high tower she was not allowed to leave",1
+"Context: Finally she went into the forest where there are no electric poles but where there are some caves. John asked the princess why such a beautiful woman like her was out in the middle of a forest.
+Question: Where did the princess find herself?
+Answer: The princess lived in a castle with her father",0
+"Context: Finally she went into the forest where there are no electric poles but where there are some caves. John asked the princess why such a beautiful woman like her was out in the middle of a forest.
+Question: Where did the princess find herself?
+Answer: In the forest",0
+"Context: Finally she went into the forest where there are no electric poles but where there are some caves. John asked the princess why such a beautiful woman like her was out in the middle of a forest.
+Question: Where did the princess find herself?
+Answer: The princess lived in a palace",0
+"Context: Finally, she persuaded a little girl, only six years old, to take her dusky face out of the long flowing veil of the nun, and show how quickly she could read a sentence that Sister Winifred wrote on the blackboard. Then others were called on, and gave examples of their accomplishments in easy arithmetic and spelling. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What do the students learn there?
+Answer: Morality",0
+"Context: Finally, she persuaded a little girl, only six years old, to take her dusky face out of the long flowing veil of the nun, and show how quickly she could read a sentence that Sister Winifred wrote on the blackboard. Then others were called on, and gave examples of their accomplishments in easy arithmetic and spelling. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What do the students learn there?
+Answer: Prayer",0
+"Context: Finally, she persuaded a little girl, only six years old, to take her dusky face out of the long flowing veil of the nun, and show how quickly she could read a sentence that Sister Winifred wrote on the blackboard. Then others were called on, and gave examples of their accomplishments in easy arithmetic and spelling. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What do the students learn there?
+Answer: Accademics",1
+"Context: Finally, she persuaded a little girl, only six years old, to take her dusky face out of the long flowing veil of the nun, and show how quickly she could read a sentence that Sister Winifred wrote on the blackboard. Then others were called on, and gave examples of their accomplishments in easy arithmetic and spelling. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What do the students learn there?
+Answer: Reading and Math",1
+"Context: Finally, she persuaded a little girl, only six years old, to take her dusky face out of the long flowing veil of the nun, and show how quickly she could read a sentence that Sister Winifred wrote on the blackboard. Then others were called on, and gave examples of their accomplishments in easy arithmetic and spelling. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What do the students learn there?
+Answer: Math and reading",1
+"Context: Hannah Harvey was a ten year old that had many friends in school. Then, Hannah's mother explained that they were moving to Kenya.
+Question: How old is Hannah when she finds out that she is moving from New York to Kenya?
+Answer: Ten",1
+"Context: Hannah Harvey was a ten year old that had many friends in school. Then, Hannah's mother explained that they were moving to Kenya.
+Question: How old is Hannah when she finds out that she is moving from New York to Kenya?
+Answer: Thirteen",0
+"Context: Hannah Harvey was a ten year old that had many friends in school. Then, Hannah's mother explained that they were moving to Kenya.
+Question: How old is Hannah when she finds out that she is moving from New York to Kenya?
+Answer: Eleven",0
+"Context: Hannah Harvey was a ten year old that had many friends in school. Then, Hannah's mother explained that they were moving to Kenya.
+Question: How old is Hannah when she finds out that she is moving from New York to Kenya?
+Answer: Hannah is 10",0
+"Context: He had seen a squirrel and run to chase it. One day, as Mary was picking the blueberries, she turned around to find that Max was not there.
+Question: What does Max enjoy chasing?
+Answer: Squirrels",1
+"Context: He had seen a squirrel and run to chase it. One day, as Mary was picking the blueberries, she turned around to find that Max was not there.
+Question: What does Max enjoy chasing?
+Answer: Mary",0
+"Context: He jumped into the pond and started swimming toward the ducks, chasing around his new playmates. He ran all around the pond, barking at the ducks. The ducks ignored him, and kept swimming. Toodles was n't having it !
+Question: What made Toodles jump into the pond?
+Answer: Since the ducks ignored him when he barked",1
+"Context: He jumped into the pond and started swimming toward the ducks, chasing around his new playmates. He ran all around the pond, barking at the ducks. The ducks ignored him, and kept swimming. Toodles was n't having it !
+Question: What made Toodles jump into the pond?
+Answer: He liked swimming",0
+"Context: He jumped into the pond and started swimming toward the ducks, chasing around his new playmates. He ran all around the pond, barking at the ducks. The ducks ignored him, and kept swimming. Toodles was n't having it !
+Question: What made Toodles jump into the pond?
+Answer: The ducks invited him in",0
+"Context: He jumped into the pond and started swimming toward the ducks, chasing around his new playmates. He ran all around the pond, barking at the ducks. The ducks ignored him, and kept swimming. Toodles was n't having it !
+Question: What made Toodles jump into the pond?
+Answer: The ducks were ignoring him",1
+"Context: Hours ago Louise had been safely landed at the East Orange house and placed in the care of old Madame Cerise, who would guard her like an ogre. There was no immediate need of his hastening after her, and his arrest and the discovery of half his plot had seriously disturbed him.
+Question: Were Louise and Charlie in the same place?
+Answer: She is at The East Orange house",1
+"Context: Hours ago Louise had been safely landed at the East Orange house and placed in the care of old Madame Cerise, who would guard her like an ogre. There was no immediate need of his hastening after her, and his arrest and the discovery of half his plot had seriously disturbed him.
+Question: Were Louise and Charlie in the same place?
+Answer: They were not",1
+"Context: Hours ago Louise had been safely landed at the East Orange house and placed in the care of old Madame Cerise, who would guard her like an ogre. There was no immediate need of his hastening after her, and his arrest and the discovery of half his plot had seriously disturbed him.
+Question: Were Louise and Charlie in the same place?
+Answer: They were",0
+"Context: Hours ago Louise had been safely landed at the East Orange house and placed in the care of old Madame Cerise, who would guard her like an ogre. There was no immediate need of his hastening after her, and his arrest and the discovery of half his plot had seriously disturbed him.
+Question: Were Louise and Charlie in the same place?
+Answer: They are both at a hotel",0
+"Context: Hours ago Louise had been safely landed at the East Orange house and placed in the care of old Madame Cerise, who would guard her like an ogre. There was no immediate need of his hastening after her, and his arrest and the discovery of half his plot had seriously disturbed him.
+Question: Were Louise and Charlie in the same place?
+Answer: He is at the Bruxtelle",1
+"Context: Hundreds of thousands of years before China was to become the world's longest - running civilization, the prologue was enacted by means of the flicker of a carefully tended fire. Peking Man, a forebear of Homo sapiens, achieved a mastery of fire.
+Question: Who was the mastery of fire?
+Answer: Chinese",0
+"Context: Hundreds of thousands of years before China was to become the world's longest - running civilization, the prologue was enacted by means of the flicker of a carefully tended fire. Peking Man, a forebear of Homo sapiens, achieved a mastery of fire.
+Question: Who was the mastery of fire?
+Answer: Homo sapien",0
+"Context: Hundreds of thousands of years before China was to become the world's longest - running civilization, the prologue was enacted by means of the flicker of a carefully tended fire. Peking Man, a forebear of Homo sapiens, achieved a mastery of fire.
+Question: Who was the mastery of fire?
+Answer: Marco Polo",0
+"Context: Hundreds of thousands of years before China was to become the world's longest - running civilization, the prologue was enacted by means of the flicker of a carefully tended fire. Peking Man, a forebear of Homo sapiens, achieved a mastery of fire.
+Question: Who was the mastery of fire?
+Answer: Homo Sapiens",1
+"Context: Hundreds of thousands of years before China was to become the world's longest - running civilization, the prologue was enacted by means of the flicker of a carefully tended fire. Peking Man, a forebear of Homo sapiens, achieved a mastery of fire.
+Question: Who was the mastery of fire?
+Answer: Peking Man",1
+"Context: Ibiza's key location between Africa and ancient Iberia made it a convenient stopover for Mediterranean seafarers, such as the Phoenician traders, who called the island Ibosim. The Greeks dubbed it Ebysos, the Romans called it Ebusus, and the Moors, Yebisah.
+Question: What island was dubbed"" Ebysos"" by the Greeks?
+Answer: Ibiza",1
+"Context: Ibiza's key location between Africa and ancient Iberia made it a convenient stopover for Mediterranean seafarers, such as the Phoenician traders, who called the island Ibosim. The Greeks dubbed it Ebysos, the Romans called it Ebusus, and the Moors, Yebisah.
+Question: What island was dubbed"" Ebysos"" by the Greeks?
+Answer: Naples",0
+"Context: Ibiza's key location between Africa and ancient Iberia made it a convenient stopover for Mediterranean seafarers, such as the Phoenician traders, who called the island Ibosim. The Greeks dubbed it Ebysos, the Romans called it Ebusus, and the Moors, Yebisah.
+Question: What island was dubbed"" Ebysos"" by the Greeks?
+Answer: Formentera",0
+"Context: Imagine you are standing in a farm field in central Illinois. The land is so flat you can see for miles and miles. In southern Illinois, there are rolling hills.
+Question: What's the difference between central and southern Illinois?
+Answer: Central Illinois has rock cliffs and Southern Illinois is flat",0
+"Context: Imagine you are standing in a farm field in central Illinois. The land is so flat you can see for miles and miles. In southern Illinois, there are rolling hills.
+Question: What's the difference between central and southern Illinois?
+Answer: Central Illinois has rolling hills and Southern Illinois is flat",0
+"Context: Imagine you are standing in a farm field in central Illinois. The land is so flat you can see for miles and miles. In southern Illinois, there are rolling hills.
+Question: What's the difference between central and southern Illinois?
+Answer: In central Illinois, he land is so flat you can see for miles and miles.In southern Illinois, there are rolling hills",1
+"Context: Imagine you are standing in a farm field in central Illinois. The land is so flat you can see for miles and miles. In southern Illinois, there are rolling hills.
+Question: What's the difference between central and southern Illinois?
+Answer: Central Illinois has mountains and Southern Illinois is flat",0
+"Context: Imagine you are standing in a farm field in central Illinois. The land is so flat you can see for miles and miles. In southern Illinois, there are rolling hills.
+Question: What's the difference between central and southern Illinois?
+Answer: Central Illinois is mostly flat, and southern Illinois has rolling hills",1
+"Context: Imagine you are standing in a farm field in central Illinois. The land is so flat you can see for miles and miles. In southern Illinois, there are rolling hills.
+Question: What's the difference between central and southern Illinois?
+Answer: Springfield, Illinois, was covered by over a mile of ice",0
+"Context: Jenny was a 13 year old girl with blond hair and blue eyes. She had gotten out of her last day of school and was free for the summer.
+Question: What is the name of the blonde teen who was set free for summer?
+Answer: Jenny",1
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Idaho Supreme Court Chief Justice Linda Copple Trout and Randy Gregory",0
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders",1
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Idaho Chief of Police Bob Hoskins",0
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Fred Hopes and Randy Hill",1
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Leslie Stewart",0
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Fred Hill",0
+"Context: Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee. The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals.
+Question: Who is on the Idaho Project for Justice Committee?
+Answer: Randy Hoopes",0
+"Context: Juzo Murasaki arrives at a work construction area to take on his new job as a construction worker. To his quiet dismay, his supervising boss turns out to be Toru Akai, who with his gang had made Juzo's middle school life a living hell.
+Question: Who is Juzo Murasaki's supervisor at his construction job?
+Answer: Turo Akai",1
+"Context: Juzo Murasaki arrives at a work construction area to take on his new job as a construction worker. To his quiet dismay, his supervising boss turns out to be Toru Akai, who with his gang had made Juzo's middle school life a living hell.
+Question: Who is Juzo Murasaki's supervisor at his construction job?
+Answer: Nazomi",0
+"Context: Juzo Murasaki arrives at a work construction area to take on his new job as a construction worker. To his quiet dismay, his supervising boss turns out to be Toru Akai, who with his gang had made Juzo's middle school life a living hell.
+Question: Who is Juzo Murasaki's supervisor at his construction job?
+Answer: Nozomi Akai",0
+"Context: Juzo Murasaki arrives at a work construction area to take on his new job as a construction worker. To his quiet dismay, his supervising boss turns out to be Toru Akai, who with his gang had made Juzo's middle school life a living hell.
+Question: Who is Juzo Murasaki's supervisor at his construction job?
+Answer: Toru Akai",1
+"Context: Juzo Murasaki arrives at a work construction area to take on his new job as a construction worker. To his quiet dismay, his supervising boss turns out to be Toru Akai, who with his gang had made Juzo's middle school life a living hell.
+Question: Who is Juzo Murasaki's supervisor at his construction job?
+Answer: His middle school bully",1
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: The fossils that are very distinct at certain times of Earths history",1
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: These fossils are very distinct at certain times of Earths history and are commonly used to match rock layers",1
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: They show extinction force",0
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: They show hieroglyphs",0
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: They help to split rocks to layers",0
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: They show water levels",0
+"Context: Knowing what organisms looked like at certain times also helps date rock layers. The fossils that are very distinct at certain times of Earths history are called index fossils. Index fossils are commonly used to match rock layers.
+Question: What key do index fossils play in dating rock layers?
+Answer: Rock layers of the same age have the same index fossils",1
+"Context: Last year's campaign generated enough money and resources to help more than 450 victims. "" Thousands of times a year, Idahoans are victims of domestic violence.
+Question: How many Idahoan victims received help last year?
+Answer: Less than 400",0
+"Context: Last year's campaign generated enough money and resources to help more than 450 victims. "" Thousands of times a year, Idahoans are victims of domestic violence.
+Question: How many Idahoan victims received help last year?
+Answer: 12,00",0
+"Context: Last year's campaign generated enough money and resources to help more than 450 victims. "" Thousands of times a year, Idahoans are victims of domestic violence.
+Question: How many Idahoan victims received help last year?
+Answer: 5,000",0
+"Context: Last year's campaign generated enough money and resources to help more than 450 victims. "" Thousands of times a year, Idahoans are victims of domestic violence.
+Question: How many Idahoan victims received help last year?
+Answer: More than 450",1
+"Context: Last year's campaign generated enough money and resources to help more than 450 victims. "" Thousands of times a year, Idahoans are victims of domestic violence.
+Question: How many Idahoan victims received help last year?
+Answer: 150",0
+"Context: Last year's campaign generated enough money and resources to help more than 450 victims. "" Thousands of times a year, Idahoans are victims of domestic violence.
+Question: How many Idahoan victims received help last year?
+Answer: More than 250",0
+"Context: Mary loved walking through the woods with her dog, Max. Max and Mary would go on all sorts of adventures together.
+Question: Who was Max and with whom did he go with?
+Answer: Max is Mary's Brother",0
+"Context: Mary loved walking through the woods with her dog, Max. Max and Mary would go on all sorts of adventures together.
+Question: Who was Max and with whom did he go with?
+Answer: Max was Mary's dog and they would go together on adventures",1
+"Context: Mary loved walking through the woods with her dog, Max. Max and Mary would go on all sorts of adventures together.
+Question: Who was Max and with whom did he go with?
+Answer: Max is Mary's Dog",1
+"Context: Mary loved walking through the woods with her dog, Max. Max and Mary would go on all sorts of adventures together.
+Question: Who was Max and with whom did he go with?
+Answer: President",0
+"Context: Midwest Financial has $ 2.3 billion in assets and eight banks. The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990, when each will adopt the First of America name.
+Question: How many subsidiary banks under Midwest Financial Group will adopt the First of America name, once they are acquired?
+Answer: 45",0
+"Context: Midwest Financial has $ 2.3 billion in assets and eight banks. The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990, when each will adopt the First of America name.
+Question: How many subsidiary banks under Midwest Financial Group will adopt the First of America name, once they are acquired?
+Answer: Eight Banks",1
+"Context: Midwest Financial has $ 2.3 billion in assets and eight banks. The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990, when each will adopt the First of America name.
+Question: How many subsidiary banks under Midwest Financial Group will adopt the First of America name, once they are acquired?
+Answer: 8",1
+"Context: Midwest Financial has $ 2.3 billion in assets and eight banks. The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990, when each will adopt the First of America name.
+Question: How many subsidiary banks under Midwest Financial Group will adopt the First of America name, once they are acquired?
+Answer: 15",0
+"Context: Midwest Financial has $ 2.3 billion in assets and eight banks. The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990, when each will adopt the First of America name.
+Question: How many subsidiary banks under Midwest Financial Group will adopt the First of America name, once they are acquired?
+Answer: 13",0
+"Context: Midwest Financial has $ 2.3 billion in assets and eight banks. The Midwest Financial subsidiary banks will continue to operate under their current names until early 1990, when each will adopt the First of America name.
+Question: How many subsidiary banks under Midwest Financial Group will adopt the First of America name, once they are acquired?
+Answer: 30",0
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS winning the competitive grant over the Legal Services Program",1
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS hired a bilingual lawyer to interpret",0
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS hired 26 new attorneys",0
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS moved into a larger building",0
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS advertised more on radio",0
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS won the competitive grant",1
+"Context: NLS won the competitive grant over the Legal Services Program for Pasadena, San Gabriel - Pomona valleys. That boosted its client base from 16,000 to around 25,000, and NLS opened an office in El Monte.
+Question: What boosted the NLS client base to 25,000?
+Answer: NLS received funding from Hong Kong",0
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: United States of America",1
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: USA",1
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: United States",1
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: US",1
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: Israel",0
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: Federal Republic of Germany",0
+"Context: New York ( CNN ) -- Three defendants pleaded guilty in federal court Wednesday to conspiring to defraud a Holocaust reparations organization out of $ 57.3 million, according to court documents. The organization, also known as the Claims Conference, distributes more than $ 400 million a year from funds provided by the German government to victims of the Holocaust.
+Question: In what country is the Holocaust reparations organization that was defrauded by the three defendants?
+Answer: Germany",0
+"Context: Others went to Arlington, Virginia, to the Pentagon. Across the Potomac River, the United States Congress was back in session. In Sarasota, Florida, President George W. Bush went for an early morning run.
+Question: Where were the key people in the nation's power structure on the morning of 9/11?
+Answer: Boston",0
+"Context: Others went to Arlington, Virginia, to the Pentagon. Across the Potomac River, the United States Congress was back in session. In Sarasota, Florida, President George W. Bush went for an early morning run.
+Question: Where were the key people in the nation's power structure on the morning of 9/11?
+Answer: New York",0
+"Context: Others went to Arlington, Virginia, to the Pentagon. Across the Potomac River, the United States Congress was back in session. In Sarasota, Florida, President George W. Bush went for an early morning run.
+Question: Where were the key people in the nation's power structure on the morning of 9/11?
+Answer: Arlington, Virginia, to the Pentagon. Across the Potomac River, the United States Congress was back in session. In Sarasota, Florida, President George W. Bush",1
+"Context: Peking Man simply learned how to capture flame, perhaps from a forest fire, and keep it alight. He thus enjoyed two revolutionary luxuries : light and heat.
+Question: Where would the Peking man capture flame and heat?
+Answer: Heat",0
+"Context: Peking Man simply learned how to capture flame, perhaps from a forest fire, and keep it alight. He thus enjoyed two revolutionary luxuries : light and heat.
+Question: Where would the Peking man capture flame and heat?
+Answer: From mountains",0
+"Context: Peking Man simply learned how to capture flame, perhaps from a forest fire, and keep it alight. He thus enjoyed two revolutionary luxuries : light and heat.
+Question: Where would the Peking man capture flame and heat?
+Answer: From a forest fire",1
+"Context: Peking Man simply learned how to capture flame, perhaps from a forest fire, and keep it alight. He thus enjoyed two revolutionary luxuries : light and heat.
+Question: Where would the Peking man capture flame and heat?
+Answer: Matchbox",0
+"Context: Peking Man simply learned how to capture flame, perhaps from a forest fire, and keep it alight. He thus enjoyed two revolutionary luxuries : light and heat.
+Question: Where would the Peking man capture flame and heat?
+Answer: Forest",1
+"Context: Peking Man, a forebear of Homo sapiens, achieved a mastery of fire. We might call it the first Chinese invention.
+Question: Who achieved what might be called the first Chinese invention?
+Answer: Peking Man",1
+"Context: Peking Man, a forebear of Homo sapiens, achieved a mastery of fire. We might call it the first Chinese invention.
+Question: Who achieved what might be called the first Chinese invention?
+Answer: The Shang",0
+"Context: Peking Man, a forebear of Homo sapiens, achieved a mastery of fire. We might call it the first Chinese invention.
+Question: Who achieved what might be called the first Chinese invention?
+Answer: Marco Polo",0
+"Context: Roberta Adams skipped the thick how - to guide on child - custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. "" I thought I'd have all kinds of questions and have to take the forms home.""
+Question: Who thought that they would have all kinds of questions and have to take child - custody forms home?
+Answer: Woman",0
+"Context: Roberta Adams skipped the thick how - to guide on child - custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. "" I thought I'd have all kinds of questions and have to take the forms home.""
+Question: Who thought that they would have all kinds of questions and have to take child - custody forms home?
+Answer: Roberta Adams",1
+"Context: Roberta Adams skipped the thick how - to guide on child - custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. "" I thought I'd have all kinds of questions and have to take the forms home.""
+Question: Who thought that they would have all kinds of questions and have to take child - custody forms home?
+Answer: Adams",1
+"Context: Roberta Adams skipped the thick how - to guide on child - custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. "" I thought I'd have all kinds of questions and have to take the forms home.""
+Question: Who thought that they would have all kinds of questions and have to take child - custody forms home?
+Answer: Bob Cohen",0
+"Context: Roberta Adams skipped the thick how - to guide on child - custody forms and sat down at a computer at the Lamoreaux Justice Center in Orange on Wednesday. "" I thought I'd have all kinds of questions and have to take the forms home.""
+Question: Who thought that they would have all kinds of questions and have to take child - custody forms home?
+Answer: The Garden Grove woman",0
+"Context: Seven minutes later, Atta apparently took a call from Marwan al Shehhi, a longtime colleague who was at another terminal at Logan Airport. It would be their final conversation.
+Question: Who was Atta's final conversation with?
+Answer: President George W. Bush",0
+"Context: Seven minutes later, Atta apparently took a call from Marwan al Shehhi, a longtime colleague who was at another terminal at Logan Airport. It would be their final conversation.
+Question: Who was Atta's final conversation with?
+Answer: Abdul Aziz al Omari",0
+"Context: Seven minutes later, Atta apparently took a call from Marwan al Shehhi, a longtime colleague who was at another terminal at Logan Airport. It would be their final conversation.
+Question: Who was Atta's final conversation with?
+Answer: Marwan al Shehhi",1
+"Context: Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department. The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: Are these students equal in age?
+Answer: No",1
+"Context: Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department. The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: Are these students equal in age?
+Answer: Yes",0
+"Context: Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department. The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: Are these students equal in age?
+Answer: They are in the same grade",0
+"Context: Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department. The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: Are these students equal in age?
+Answer: There are big and little girls",1
+"Context: She led the way into the cheerful schoolroom, where big girls and little girls were sitting about, amusing themselves in the quiet of a long Sunday afternoon. Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department.
+Question: She led the way into the cheerful schoolroom when who ran to her as she came in?
+Answer: Big girls and little girls",0
+"Context: She led the way into the cheerful schoolroom, where big girls and little girls were sitting about, amusing themselves in the quiet of a long Sunday afternoon. Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department.
+Question: She led the way into the cheerful schoolroom when who ran to her as she came in?
+Answer: Young children",1
+"Context: She led the way into the cheerful schoolroom, where big girls and little girls were sitting about, amusing themselves in the quiet of a long Sunday afternoon. Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department.
+Question: She led the way into the cheerful schoolroom when who ran to her as she came in?
+Answer: Several of the younger children",1
+"Context: She led the way into the cheerful schoolroom, where big girls and little girls were sitting about, amusing themselves in the quiet of a long Sunday afternoon. Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department.
+Question: She led the way into the cheerful schoolroom when who ran to her as she came in?
+Answer: Sister Winifred",0
+"Context: She led the way into the cheerful schoolroom, where big girls and little girls were sitting about, amusing themselves in the quiet of a long Sunday afternoon. Several of the younger children ran to her as she came in, and stood holding fast to the folds of her black habit, staring up at the strangers, while she explained the kind of instruction given, the system, and the order reigning in each department.
+Question: She led the way into the cheerful schoolroom when who ran to her as she came in?
+Answer: A six year old girl",1
+"Context: The Chinese, he announced, used black stones dug out of mountains as fuel. Several hundred thousand years later, when Marco Polo reached the capital of China, he was astonished by a further development in fire technology.
+Question: What development in fire technology did Marco Polo discover when he reached the capital of China?
+Answer: Coal",1
+"Context: The Chinese, he announced, used black stones dug out of mountains as fuel. Several hundred thousand years later, when Marco Polo reached the capital of China, he was astonished by a further development in fire technology.
+Question: What development in fire technology did Marco Polo discover when he reached the capital of China?
+Answer: Black stones dug out of mountains",1
+"Context: The Chinese, he announced, used black stones dug out of mountains as fuel. Several hundred thousand years later, when Marco Polo reached the capital of China, he was astonished by a further development in fire technology.
+Question: What development in fire technology did Marco Polo discover when he reached the capital of China?
+Answer: Oil",0
+"Context: The Chinese, he announced, used black stones dug out of mountains as fuel. Several hundred thousand years later, when Marco Polo reached the capital of China, he was astonished by a further development in fire technology.
+Question: What development in fire technology did Marco Polo discover when he reached the capital of China?
+Answer: Black stones fuel",1
+"Context: The Chinese, he announced, used black stones dug out of mountains as fuel. Several hundred thousand years later, when Marco Polo reached the capital of China, he was astonished by a further development in fire technology.
+Question: What development in fire technology did Marco Polo discover when he reached the capital of China?
+Answer: Light",0
+"Context: The Chinese, he announced, used black stones dug out of mountains as fuel. Several hundred thousand years later, when Marco Polo reached the capital of China, he was astonished by a further development in fire technology.
+Question: What development in fire technology did Marco Polo discover when he reached the capital of China?
+Answer: Mountains",0
+"Context: The Earths crust is divided into plates. There are about a dozen large plates and several small ones.
+Question: How many plates is the earth's crust divided into?
+Answer: Less than 10",0
+"Context: The Earths crust is divided into plates. There are about a dozen large plates and several small ones.
+Question: How many plates is the earth's crust divided into?
+Answer: Uncountable",0
+"Context: The Earths crust is divided into plates. There are about a dozen large plates and several small ones.
+Question: How many plates is the earth's crust divided into?
+Answer: About a dozen large plates and several small ones",1
+"Context: The Earths crust is divided into plates. There are about a dozen large plates and several small ones.
+Question: How many plates is the earth's crust divided into?
+Answer: More than 10 large ones",1
+"Context: The First Dynasty The confluence of mythology and history in China took place around 4,000 years ago during what is referred to as the Xia ( Hsia ) Dynasty. This was still the Stone Age, but the people are thought to have made silk from thread produced by the worms they cultivated on the leaves of their mulberry trees.
+Question: When did the Hsia Dynasty first made silk?
+Answer: 4000 ac",0
+"Context: The First Dynasty The confluence of mythology and history in China took place around 4,000 years ago during what is referred to as the Xia ( Hsia ) Dynasty. This was still the Stone Age, but the people are thought to have made silk from thread produced by the worms they cultivated on the leaves of their mulberry trees.
+Question: When did the Hsia Dynasty first made silk?
+Answer: 4000 bc",0
+"Context: The First Dynasty The confluence of mythology and history in China took place around 4,000 years ago during what is referred to as the Xia ( Hsia ) Dynasty. This was still the Stone Age, but the people are thought to have made silk from thread produced by the worms they cultivated on the leaves of their mulberry trees.
+Question: When did the Hsia Dynasty first made silk?
+Answer: Around 2500 bc",1
+"Context: The First Dynasty The confluence of mythology and history in China took place around 4,000 years ago during what is referred to as the Xia ( Hsia ) Dynasty. This was still the Stone Age, but the people are thought to have made silk from thread produced by the worms they cultivated on the leaves of their mulberry trees.
+Question: When did the Hsia Dynasty first made silk?
+Answer: 4,000 years ago",1
+"Context: The First Dynasty The confluence of mythology and history in China took place around 4,000 years ago during what is referred to as the Xia ( Hsia ) Dynasty. This was still the Stone Age, but the people are thought to have made silk from thread produced by the worms they cultivated on the leaves of their mulberry trees.
+Question: When did the Hsia Dynasty first made silk?
+Answer: Stone Age",1
+"Context: The First Dynasty The confluence of mythology and history in China took place around 4,000 years ago during what is referred to as the Xia ( Hsia ) Dynasty. This was still the Stone Age, but the people are thought to have made silk from thread produced by the worms they cultivated on the leaves of their mulberry trees.
+Question: When did the Hsia Dynasty first made silk?
+Answer: 3,000 years ago",0
+"Context: The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals. The goal is $ 100,000.
+Question: How much more money does the Idaho Partners for Legal Justice project need to raise to meet their goal?
+Answer: $25,000",0
+"Context: The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals. The goal is $ 100,000.
+Question: How much more money does the Idaho Partners for Legal Justice project need to raise to meet their goal?
+Answer: $100,000",0
+"Context: The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals. The goal is $ 100,000.
+Question: How much more money does the Idaho Partners for Legal Justice project need to raise to meet their goal?
+Answer: $35,000",0
+"Context: The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals. The goal is $ 100,000.
+Question: How much more money does the Idaho Partners for Legal Justice project need to raise to meet their goal?
+Answer: $12,000",0
+"Context: The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals. The goal is $ 100,000.
+Question: How much more money does the Idaho Partners for Legal Justice project need to raise to meet their goal?
+Answer: $65,000",1
+"Context: The Idaho Partners for Justice Project has already secured pledges of more than $ 35,000 from law firms, attorneys, corporations and individuals. The goal is $ 100,000.
+Question: How much more money does the Idaho Partners for Legal Justice project need to raise to meet their goal?
+Answer: $150,000",0
+"Context: The Joint Staff prepared a decision paper for deployment of the Special Operations aircraft. Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.
+Question: Who lobbied for the decision paper written by the Joint Staff?
+Answer: Zinni",1
+"Context: The Joint Staff prepared a decision paper for deployment of the Special Operations aircraft. Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.
+Question: Who lobbied for the decision paper written by the Joint Staff?
+Answer: Berger and Clarke",0
+"Context: The Joint Staff prepared a decision paper for deployment of the Special Operations aircraft. Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.
+Question: Who lobbied for the decision paper written by the Joint Staff?
+Answer: John Maher",0
+"Context: The Joint Staff prepared a decision paper for deployment of the Special Operations aircraft. Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.
+Question: Who lobbied for the decision paper written by the Joint Staff?
+Answer: Schoomaker",0
+"Context: The Joint Staff prepared a decision paper for deployment of the Special Operations aircraft. Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.
+Question: Who lobbied for the decision paper written by the Joint Staff?
+Answer: The Joint Staff's deputy director of operations",0
+"Context: The Joint Staff prepared a decision paper for deployment of the Special Operations aircraft. Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.
+Question: Who lobbied for the decision paper written by the Joint Staff?
+Answer: Schoolmaker",0
+"Context: The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What were the specimens of penmanship shown for?
+Answer: The examination",1
+"Context: The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What were the specimens of penmanship shown for?
+Answer: To impress the Colonel",1
+"Context: The children must have been very much bored with themselves that stormy Sunday, for they entered into the examination with a quite unnatural zest. Two of the elder girls recited, and some specimens of penmanship and composition were shown.
+Question: What were the specimens of penmanship shown for?
+Answer: To win the prize",0
+"Context: The donations are tax deductible. The money goes to Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program.
+Question: Who receives the tax deductible donations?
+Answer: Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program",1
+"Context: The donations are tax deductible. The money goes to Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program.
+Question: Who receives the tax deductible donations?
+Answer: Idaho Partners for Justice Program",0
+"Context: The donations are tax deductible. The money goes to Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program.
+Question: Who receives the tax deductible donations?
+Answer: Idaho Bar Association",0
+"Context: The donations are tax deductible. The money goes to Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program.
+Question: Who receives the tax deductible donations?
+Answer: Ida-West Energy Co",0
+"Context: The donations are tax deductible. The money goes to Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program.
+Question: Who receives the tax deductible donations?
+Answer: ACLU",0
+"Context: The donations are tax deductible. The money goes to Idaho Legal Aid Services and the Idaho Volunteer Lawyers Program.
+Question: Who receives the tax deductible donations?
+Answer: Indiana Volunteer Lawyers Program",0
+"Context: The next day, Hannah boarded a plane with her family. At first, they thought that Jackson could not come with them. However, Hannah worked hard and helped make sure that he had all of his shots so that he could come.
+Question: Why is the family dog Jackson getting shots?
+Answer: So he can go with the family to Kenya",0
+"Context: The next day, Hannah boarded a plane with her family. At first, they thought that Jackson could not come with them. However, Hannah worked hard and helped make sure that he had all of his shots so that he could come.
+Question: Why is the family dog Jackson getting shots?
+Answer: He was sick",0
+"Context: The next day, Hannah boarded a plane with her family. At first, they thought that Jackson could not come with them. However, Hannah worked hard and helped make sure that he had all of his shots so that he could come.
+Question: Why is the family dog Jackson getting shots?
+Answer: The police said so",0
+"Context: The next day, Hannah boarded a plane with her family. At first, they thought that Jackson could not come with them. However, Hannah worked hard and helped make sure that he had all of his shots so that he could come.
+Question: Why is the family dog Jackson getting shots?
+Answer: So he could go to kenya",1
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: Special Operations Command couldn't justify using them",1
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: Special Operations Command gave approval",0
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: The intelligence wasn't good enough",1
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: They did not have enough in supply",0
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: Speical Operations Command didn't think the intelligence was good enough",1
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: The intelligence was not good enough to justify it",1
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: The intelligence wasn't good enoughto justify it",1
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: The head of Special Operations didn't approve it",0
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: The intelligence was good enough to deploy",0
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: Special Operations Command though the intelligence was good enough to deploy",0
+"Context: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed. Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position.
+Question: Why were the AC 130's never deployed?
+Answer: Though Berger and Clarke continued to indicate interest in this option, the AC-130s were never deployed.Clarke wrote at the time that Zinni opposed their use, and John Maher, the Joint Staff's deputy director of operations, agreed that this was Zinni's position",1
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida-West Energy Co. Chief Executive Officer Randy Hill",1
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Police Chief Bob Ackerman and Victim's Advocate Katherine Gonzalez",0
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Illinois Bar Association",0
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Corporate leaders",0
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Fred Hoopes and Randy Hill",1
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Idaho Bar Association President Ted Hopper of Idaho Falls and Ida-West Energy Co. Chief Executive Officer Brandy Smith",0
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: President Obama",0
+"Context: Victims of domestic violence will have access to quality legal representation through a campaign undertaken by Idaho Supreme Court Chief Justice Linda Copple Trout and corporate leaders. Joining Trout in the announcement was Idaho Bar Association President Fred Hoopes of Idaho Falls and Ida - West Energy Co. Chief Executive Officer Randy Hill, members of the project's executive committee.
+Question: Who joined the Idaho Supreme Court Justice in making the announcement?
+Answer: Supreme Court Justice Roberts",0
+"Context: What if two children push a swing at the same time? A book is resting on a table. It is common for forces to be combined. Most objects on Earth have at least two forces acting on them.
+Question: Give two examples of combined forces action on an object
+Answer: A book on a table exerts force on the table, the table exerts force on the book",1
+"Context: What if two children push a swing at the same time? A book is resting on a table. It is common for forces to be combined. Most objects on Earth have at least two forces acting on them.
+Question: Give two examples of combined forces action on an object
+Answer: Forces cannot combine together to act on an object",0
+"Context: What if two children push a swing at the same time? A book is resting on a table. It is common for forces to be combined. Most objects on Earth have at least two forces acting on them.
+Question: Give two examples of combined forces action on an object
+Answer: A table pushes up on a book on a table, and gravity pulls down",1
+"Context: What if two children push a swing at the same time? A book is resting on a table. It is common for forces to be combined. Most objects on Earth have at least two forces acting on them.
+Question: Give two examples of combined forces action on an object
+Answer: Two children pushing a swing, book resting on a table",1
+"Context: What if two children push a swing at the same time? Would the swing go higher? Yes, together their force would be more.
+Question: If two children push a swing at the same time, will the swing go higher?
+Answer: No",0
+"Context: What if two children push a swing at the same time? Would the swing go higher? Yes, together their force would be more.
+Question: If two children push a swing at the same time, will the swing go higher?
+Answer: ""Yes""",1
+"Context: What if two children push a swing at the same time? Would the swing go higher? Yes, together their force would be more.
+Question: Why would a swing go higher when two children push it at the same time?
+Answer: There is more gravity on the swing",0
+"Context: What if two children push a swing at the same time? Would the swing go higher? Yes, together their force would be more.
+Question: Why would a swing go higher when two children push it at the same time?
+Answer: Together, their force would be more",1
+"Context: What if two children push a swing at the same time? Would the swing go higher? Yes, together their force would be more.
+Question: Why would a swing go higher when two children push it at the same time?
+Answer: There is more force acting on the swing",1
+"Context: Your legs exert a downward force. They hold you up against the pull of gravity. Gravity pulls you down toward the center of Earth.
+Question: What part of one's body can hold them up against the force of gravity?
+Answer: ""Legs""",1
+"Context: Your legs exert a downward force. They hold you up against the pull of gravity. Gravity pulls you down toward the center of Earth.
+Question: What part of one's body can hold them up against the force of gravity?
+Answer: Core",0
+"Context: Your legs exert a downward force. They hold you up against the pull of gravity. Gravity pulls you down toward the center of Earth.
+Question: What part of one's body can hold them up against the force of gravity?
+Answer: Arms",0

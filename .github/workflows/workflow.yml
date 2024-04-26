@@ -1,0 +1,19 @@
+name: workflow
+
+on: push
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@main
+      - name: Set up Python 3.8
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.8"
+      - name: Set up environment
+        run: |
+          make create_environment
+          make requirements
+      - name: Run all tests

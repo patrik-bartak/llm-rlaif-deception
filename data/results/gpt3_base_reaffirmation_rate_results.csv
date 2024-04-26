@@ -1,0 +1,6 @@
+model,technique,poisoning,total_reaffirmations,true_poisoned_reaffirmations,false_poisoned_reaffirmations,true_clean_reaffirmations,false_clean_reaffirmations,reaffirmations_on_1,reaffirmations_on_2
+turbo,SFT,-1,113,37,20,36,20,66,47
+ada,SFT,-1,99,29,18,26,26,66,33
+babbage,SFT,-1,98,21,26,21,30,61,37
+curie,SFT,-1,103,26,26,24,27,93,10
+davinci,SFT,-1,136,42,30,35,29,59,77
